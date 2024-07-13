@@ -1,4 +1,4 @@
-# PowerBi_Dashboard2
+# Analysis Of Scotland Injury Admissions
 
 ## Background Information
 The dataset includes 14 Scottish Health Boards and 32 Council Areas, each identified by specific geography codes. Boundary changes occurred on 02/02/2018 for Keltybridge and the Fife Environmental Energy Park, and on 01/04/2019 for Cardowan by Stepps. These changes required the cessation of old codes and the introduction of new ones for the affected Council Areas, Health and Social Care Partnerships, and Health Boards to accurately reflect the revised boundaries.
