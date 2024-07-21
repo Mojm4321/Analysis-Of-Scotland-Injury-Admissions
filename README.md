@@ -37,5 +37,12 @@ Given their high admission rates for the elderly, the community could implement 
 ### Continuous Monitoring
 Continuous monitoring of injury trends is crucial to assess the effectiveness of strategies and make necessary adjustments if they prove ineffective. While data analysis requires significant investment, it enables healthcare services to anticipate increases in admissions and tailor services accordingly.
 
+## Data Sources
+The data was sourced from the following websites:
+
+- https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/652ff726-e676-4a20-abda-435b98dd7bdc
+
+- https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/967937c4-8d67-4f39-974f-fd58c4acfda5 
+
 ## Dashboard
 ![Dashboard](https://github.com/Mojm4321/PowerBi_Dashboard2/blob/main/Screenshots/Screenshot%202024-07-13%20114325.png)
